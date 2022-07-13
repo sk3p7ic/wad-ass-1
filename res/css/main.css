@@ -78,6 +78,10 @@ h2 {
 
 /* Editing Custom Classes */
 
+.font-urbanist {
+  font-family: "Urbanist", sans-serif;
+}
+
 .social-link {
   width: fit-content;
   padding-left: 0.5rem;
